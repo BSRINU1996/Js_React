@@ -120,6 +120,6 @@ for(var i = 1 ; i<= 12 ; i++){
 
 //
 
-
+console.log("Alerat shoul be working")
 alert("test")
 alert("test")
